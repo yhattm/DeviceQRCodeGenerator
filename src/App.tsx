@@ -50,6 +50,7 @@ const App = () => {
         <MenuItem value="radar">Radar</MenuItem>
         <MenuItem value="camera">Camera</MenuItem>
         <MenuItem value="doorbell">Doorbell</MenuItem>
+        <MenuItem value="ring">Ring</MenuItem>
       </TextField>
       <p>QRCode msg is {msgStr}</p>
       <div />
