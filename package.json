@@ -6,6 +6,7 @@
   "main": "src/index.tsx",
   "dependencies": {
     "@material-ui/core": "4.9.7",
+    "@types/qrcode.react": "1.0.0",
     "qrcode.react": "1.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
