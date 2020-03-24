@@ -1,0 +1,2 @@
+# DeviceQRCodeGenerator
+Created with CodeSandbox
