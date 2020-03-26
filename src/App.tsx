@@ -47,6 +47,7 @@ const App = () => {
           setType(event.target.value);
         }}
       >
+        <MenuItem value="switch">Switch</MenuItem>
         <MenuItem value="radar">Radar</MenuItem>
         <MenuItem value="camera">Camera</MenuItem>
         <MenuItem value="doorbell">Doorbell</MenuItem>
